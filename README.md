@@ -1,6 +1,6 @@
 # US Superstore Sales Analysis — Power BI
 
-**Project inspiration:** [Superstore Sales Analysis & Data Visualisation — HiCounselor](https://hicounselor.com/projects/superstore-sales-analysis-data-visualisation)
+
 
 ## 1. Project Overview
 
@@ -28,7 +28,8 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ### 3.1 Revenue and Order Performance
 
-![Revenue and Order Intelligence](images/01-revenue-order-intelligence.png)
+<img width="1217" height="736" alt="Screenshot 2026-10-10 201813" src="https://github.com/user-attachments/assets/b638cd88-29a6-428c-b63f-6e2443608b23" />
+
 
 **Overall performance**
 
@@ -62,7 +63,8 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ### 3.2 Geographic Sales Analysis
 
-![Sales by Geography](images/02-sales-by-geography.png)
+<img width="1226" height="727" alt="Screenshot 2026-10-10 201821" src="https://github.com/user-attachments/assets/cdaa8656-f8f0-4103-9f38-de6fe62ec255" />
+
 
 **Leading cities and states**
 
@@ -79,7 +81,8 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ### 3.3 Customer Segments, Trends and Shipping
 
-![Sales Trends, Customer Segments and Shipping](images/03-sales-trends-and-segments.png)
+<img width="1226" height="737" alt="Screenshot 2026-10-10 201828" src="https://github.com/user-attachments/assets/262859ac-b217-41fb-bfb7-ca123a95627e" />
+
 
 **Sales and profit over time**
 
@@ -113,9 +116,5 @@ Dataset cleaning details and the exact number of records should be added only af
 
 The dashboards highlight Superstore's strong sales performance while revealing opportunities to improve profitability and operational efficiency. Product-level profit analysis, more effective discounting, demand-based inventory planning, and shipping performance monitoring can support better business decisions.
 
-The central takeaway is that **sales growth alone is not enough to measure business success**. Understanding where profit is generated and how resources are used is essential for improving long-term performance.
 
-## Tools Used
 
-- Power BI — Dashboard creation and data visualisation
-- Retail sales dataset — Analysis of sales, profit, discounts, customer segments, geographical performance, and shipping methods
