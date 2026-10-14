@@ -26,9 +26,10 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ## 3. Dashboard Analysis
 
-### 3.1 Revenue and Order Performance
+### 3.1 Sales Performance overview
 
-<img width="1217" height="736" alt="Screenshot 2026-10-10 201813" src="https://github.com/user-attachments/assets/b638cd88-29a6-428c-b63f-6e2443608b23" />
+<img width="1648" height="990" alt="Screenshot 2026-10-14 232250" src="https://github.com/user-attachments/assets/d78c1273-1b08-42ff-bdd3-4ca5ef713e24" />
+
 
 
 **Overall performance**
@@ -63,7 +64,8 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ### 3.2 Geographic Sales Analysis
 
-<img width="1226" height="727" alt="Screenshot 2026-10-10 201821" src="https://github.com/user-attachments/assets/cdaa8656-f8f0-4103-9f38-de6fe62ec255" />
+<img width="1652" height="986" alt="Screenshot 2026-10-14 232314" src="https://github.com/user-attachments/assets/75b38211-95a5-4196-943e-7790f61d3a5b" />
+
 
 
 **Leading cities and states**
@@ -81,7 +83,8 @@ Dataset cleaning details and the exact number of records should be added only af
 
 ### 3.3 Customer Segments, Trends and Shipping
 
-<img width="1226" height="737" alt="Screenshot 2026-10-10 201828" src="https://github.com/user-attachments/assets/262859ac-b217-41fb-bfb7-ca123a95627e" />
+<img width="1647" height="991" alt="Screenshot 2026-10-14 232328" src="https://github.com/user-attachments/assets/cb60806c-1d9d-4598-838a-2ecf6085cfe3" />
+
 
 
 **Sales and profit over time**
