@@ -1,4 +1,4 @@
-# US Superstore Sales Analysis — Power BI
+# US Store Sales Analysis — Power BI
 
 
 
